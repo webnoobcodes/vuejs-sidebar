@@ -1,5 +1,8 @@
 # vuejs-sidebar
 
+- [Demonstration on Youtube](https://youtu.be/BZtqa2gDyVw)
+
+
 ## Project setup
 ```
 npm install
@@ -25,5 +28,6 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## License
+
+[MIT](LICENSE)
